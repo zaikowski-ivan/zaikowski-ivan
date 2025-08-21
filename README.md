@@ -1,3 +1,4 @@
+<div style="background-color:#1e1e1e; padding: 25px; border-radius: 10px; color: white">
 <h1 align="center">
   <b>Hi, I'm Ivan Zaikowski </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
