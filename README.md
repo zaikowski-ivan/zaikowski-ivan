@@ -21,5 +21,5 @@
 
 ##My Contact
 
-<a href= "www.linkedin.com/in/ivan-zaikowski">
+<a href= "https://www.linkedin.com/in/iv%C3%A1n-zaikowski-062b12207/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
