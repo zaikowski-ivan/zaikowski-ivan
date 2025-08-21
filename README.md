@@ -10,3 +10,13 @@ I'm a Software Engineering student @ University of Buenos Aires.
 - Currently, I’m building my backend development skills with Python and JavaScript.
 - ✔ I’m looking forward to collaborate on open source projects.
 - 📫 Reach out to me at: zaikowski.ivan@gmail.com
+
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
+ 
