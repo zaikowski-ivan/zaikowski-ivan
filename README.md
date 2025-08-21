@@ -19,7 +19,9 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
-##My Contact
+<span>
+  
+## My Contact
 
 <a href= "https://www.linkedin.com/in/iv%C3%A1n-zaikowski-062b12207/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
